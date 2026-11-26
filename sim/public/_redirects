@@ -1,0 +1,8 @@
+# PXT static package path aliases for Cloudflare Pages.
+# The packaged build keeps webapp assets at the root and docs assets under docs/.
+/static/* /docs/static/:splat 200
+/cdn/* /:splat 200
+/doccdn/* /:splat 200
+/blb/* /:splat 200
+/trgblb/* /:splat 200
+/sim/* /:splat 200
