@@ -31,7 +31,7 @@
    Menu
 --------------------*/
 
-@mainMenuInvertedBackground: @blue;
+@mainMenuInvertedBackground: #0B5D55;
 @mainMenuTutorialBackground: @purple;
 
 @mainMenuBlocksJsToggleColor: @primaryColor;

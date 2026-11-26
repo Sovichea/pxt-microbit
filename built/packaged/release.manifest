@@ -59,7 +59,7 @@ CACHE:
 /worker.js
 /monacoworker.js
 
-# ver Thu Nov 26 2026 13:29:09 GMT+0700 (Indochina Time)
+# ver Thu Nov 26 2026 14:07:42 GMT+0700 (Indochina Time)
 
 # target
 /docs\static\providers\github-mark.png
@@ -70,8 +70,7 @@ CACHE:
 /docs\static\logo.square.white.svg
 /docs\static\logo.portrait.black.svg
 /docs\static\icons\apple-touch-icon.png
-/docs\static\Microsoft_logo_rgb_W-white_D-square.png
-/docs\static\Microsoft_logo_rgb_W-white_D.png
+/docs\static\rya-logo.png
 /docs\static\herogallery\hero-banner.png
 /docs\static\download\transfer.png
 /docs\static\download\connect-microbit.gif

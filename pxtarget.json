@@ -389,7 +389,7 @@
         "rawHID": true
     },
     "appTheme": {
-        "accentColor": "#5C005C",
+        "accentColor": "#0B5D55",
         "logoUrl": "https://microbit.org/",
         "logo": "./static/logo.portrait.white.svg",
         "docsLogo": "./static/logo.square.white.svg",
@@ -397,10 +397,10 @@
         "footerLogo": "./static/logo.portrait.black.svg",
         "cardLogo": "./static/icons/apple-touch-icon.png",
         "appLogo": "./static/icons/apple-touch-icon.png",
-        "organization": "Microsoft MakeCode",
+        "organization": "RobotYOUNG Academy",
         "organizationUrl": "https://makecode.com/",
-        "organizationLogo": "./static/Microsoft_logo_rgb_W-white_D-square.png",
-        "organizationWideLogo": "./static/Microsoft_logo_rgb_W-white_D.png",
+        "organizationLogo": "./static/rya-logo.png",
+        "organizationWideLogo": "./static/rya-logo.png",
         "homeScreenHero": {
             "imageUrl": "/static/herogallery/hero-banner.png",
             "name": "Flashing Heart",
