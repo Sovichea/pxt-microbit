@@ -7,10 +7,10 @@
 @headerFont        : Roboto,"Arial Narrow","Helvetica Neue",Helvetica,Arial,sans-serif;
 @pageFont          : Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
 
-@primaryColor: @purple;
+@primaryColor: #0B5D55;
 
-@teal: #2C7485;
-@blue: #3454D1;
+@teal: #2D9A68;
+@blue: #0B5D55;
 @red: #E41B21;
 @pink: #F46197;
 @yellow: #FDE74C;
@@ -19,7 +19,7 @@
 
 /* Microbit.org colors */
 @orange: #ff8b27;
-@purple: #6633cc;
+@purple: #147366;
 
 @pageBackground: #fff;
 
@@ -32,7 +32,7 @@
 --------------------*/
 
 @mainMenuInvertedBackground: #0B5D55;
-@mainMenuTutorialBackground: @purple;
+@mainMenuTutorialBackground: #0B5D55;
 
 @mainMenuBlocksJsToggleColor: @primaryColor;
 
